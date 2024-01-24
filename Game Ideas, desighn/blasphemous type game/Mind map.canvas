@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"a1b905cc5de013b1","type":"text","text":"Calamity Game","x":-140,"y":-360,"width":250,"height":60,"color":"1"},
+		{"id":"667f56e420d72dd2","type":"text","text":"Story Ideas","x":-140,"y":-260,"width":250,"height":60},
+		{"id":"564390a77cc8092f","type":"file","file":"Game Ideas, desighn/blasphemous type game/The last calamity.canvas","x":0,"y":-112,"width":400,"height":400},
+		{"id":"62e658d6ef7b986f","type":"file","file":"Game Ideas, desighn/blasphemous type game/The courier (The last sacrifice).canvas","x":-440,"y":-112,"width":400,"height":400},
+		{"id":"0feb0c1608d09a2d","x":-760,"y":-361,"width":250,"height":60,"type":"text","text":"Art style, Music, Fell"},
+		{"id":"4cfc567e932611c2","x":460,"y":-361,"width":250,"height":60,"type":"text","text":"Combat, Mechaniks"}
+	],
+	"edges":[
+		{"id":"87847272ac2fd6c4","fromNode":"a1b905cc5de013b1","fromSide":"bottom","toNode":"667f56e420d72dd2","toSide":"top"},
+		{"id":"0c21eca0f69560db","fromNode":"667f56e420d72dd2","fromSide":"bottom","toNode":"62e658d6ef7b986f","toSide":"top"},
+		{"id":"be7875731fc4fb33","fromNode":"667f56e420d72dd2","fromSide":"bottom","toNode":"564390a77cc8092f","toSide":"top"},
+		{"id":"40496a0d3d5bcff3","fromNode":"a1b905cc5de013b1","fromSide":"left","toNode":"0feb0c1608d09a2d","toSide":"right"},
+		{"id":"69e49aca63e835cf","fromNode":"a1b905cc5de013b1","fromSide":"right","toNode":"4cfc567e932611c2","toSide":"left"}
+	]
+}

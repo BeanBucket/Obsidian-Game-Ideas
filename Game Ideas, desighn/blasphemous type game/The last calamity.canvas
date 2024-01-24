@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"4af2cafc4668f800","type":"text","text":"The last calamity","x":-140,"y":-260,"width":250,"height":60},
+		{"id":"56d4a89ca42a94e5","type":"text","text":"Middle: Big sacrifice of himself he had to die but somehow survived","x":200,"y":-300,"width":250,"height":100},
+		{"id":"3d83fd99b969d8df","type":"text","text":"End: Walks up to the main throne and king says \"I am The last calamity\"","x":480,"y":-300,"width":250,"height":100},
+		{"id":"25385274483702c4","type":"text","text":"Main plot point","x":-140,"y":-160,"width":250,"height":60},
+		{"id":"e3b205896a6cca95","type":"text","text":"He must die because he Is \"The calamity\"","x":-140,"y":-20,"width":250,"height":60},
+		{"id":"f37ab0aaff5142d2","type":"text","text":"The sacrifice","x":180,"y":-20,"width":250,"height":60},
+		{"id":"2d7e41b0ee86b817","type":"text","text":"The resource","x":-700,"y":-20,"width":250,"height":60},
+		{"id":"2c128413aaecd214","x":-775,"y":80,"width":400,"height":200,"type":"text","text":"The kings and queens made a deal with something, that something would give them ultimate power after death but they need to gather alot of power in the form of crystals. the crystals will only appear after someone with immense power dies, the crystals then grow at the spot they died."},
+		{"id":"24d802e32ae24bd0","x":-775,"y":320,"width":400,"height":112,"type":"text","text":"The crystals cant be mined by regular means, they can only be taken after a monster is killed. The monsters appear with the crystals inbeded in theyr bodies whitch give them alot of power."},
+		{"id":"65e506a123b633df","x":-775,"y":480,"width":400,"height":240,"type":"text","text":"After a monster dies it releases energy. The energy will be gathered by humans and if theyre not compatible with it the humans will turn into monsters without the crystals (The energy does not dissapear so it will continue to maime and transform humans). Only the compatible ones can gather it saffely. The compatible ones need to die the same way the predesessors do."},
+		{"id":"733f257bbddceef6","x":-775,"y":780,"width":400,"height":124,"type":"text","text":"The sycle continues with our main character whitch is compatible. He goes and kills the other monsters, because he is the only one that can kill them safely."},
+		{"id":"0c7aeaa5d12c8cff","x":-775,"y":960,"width":400,"height":156,"type":"text","text":"He is deemed a hero and the savior who came to vanquish the monsters. But in truth he is a resource for the gain of others. He has the full support of the kings, queens and others, so after each expedition he can rest recover upgrade."}
+	],
+	"edges":[
+		{"id":"511d643c90fd5f79","fromNode":"4af2cafc4668f800","fromSide":"bottom","toNode":"25385274483702c4","toSide":"top"},
+		{"id":"7b023863da3b85d2","fromNode":"25385274483702c4","fromSide":"bottom","toNode":"2d7e41b0ee86b817","toSide":"top"},
+		{"id":"e1acd7f508c4d17b","fromNode":"25385274483702c4","fromSide":"bottom","toNode":"e3b205896a6cca95","toSide":"top"},
+		{"id":"d249d839005a5231","fromNode":"25385274483702c4","fromSide":"bottom","toNode":"f37ab0aaff5142d2","toSide":"top"},
+		{"id":"73515326928f0fae","fromNode":"2d7e41b0ee86b817","fromSide":"bottom","toNode":"2c128413aaecd214","toSide":"top"},
+		{"id":"37429ef1de9bcb2e","fromNode":"2c128413aaecd214","fromSide":"bottom","toNode":"24d802e32ae24bd0","toSide":"top"},
+		{"id":"6895c164ba415460","fromNode":"24d802e32ae24bd0","fromSide":"bottom","toNode":"65e506a123b633df","toSide":"top"},
+		{"id":"cddd87153f2f6a2f","fromNode":"65e506a123b633df","fromSide":"bottom","toNode":"733f257bbddceef6","toSide":"top"},
+		{"id":"79bbb339a7b7fda0","fromNode":"733f257bbddceef6","fromSide":"bottom","toNode":"0c7aeaa5d12c8cff","toSide":"top"}
+	]
+}
