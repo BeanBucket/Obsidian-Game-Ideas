@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "54422babdbfd9d46",
+        "id": "919707be718ea270",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f8de4d57485f1c",
+            "id": "27ef15868222bc86",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Game Ideas, desighn/blasphemous type game/The last calamity.canvas",
-                "viewState": {
-                  "x": -306.34717491610735,
-                  "y": 502.7624035234881,
-                  "zoom": -0.13992212455257838
-                }
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Ideas, desighn/blasphemous type game/The last calamity.canvas",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Ideas, desighn/blasphemous type game/The last calamity.canvas",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Ideas, desighn/blasphemous type game/The last calamity.canvas"
+                "file": "Home.md"
               }
             }
           },
@@ -170,17 +167,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e4f8de4d57485f1c",
+  "active": "27ef15868222bc86",
   "lastOpenFiles": [
+    "here/Game Ideas, desighn/blasphemous type game/The courier (The last sacrifice).canvas",
+    "here/Game Ideas, desighn/blasphemous type game/Mind map.canvas",
+    "here/Game Ideas, desighn/blasphemous type game/The last calamity.canvas",
+    "Home.md",
+    "here/Templates/GAME IDEA NAME.md",
+    "here/Templates",
+    "here/Home.md",
+    "here/Game Ideas, desighn/blasphemous type game",
+    "here/Game Ideas, desighn/The Blink Game Idea/The Blink.md",
+    "here/Game Ideas, desighn/The Blink Game Idea/Pasted image 20231114114428.png",
+    "here/Game Ideas, desighn/The Blink Game Idea/Pasted image 20231114114227.png",
+    "here/Game Ideas, desighn/The Blink Game Idea/Don't Escape 4 Days to Survive.md",
+    "here/Game Ideas, desighn/The Blink Game Idea",
+    "here/Game Ideas, desighn/Game Ideas.md",
+    "here/Game Ideas, desighn",
+    "Game Ideas, desighn/blasphemous type game/The last calamity.canvas",
+    "here",
     "Game Ideas, desighn/blasphemous type game/The courier (The last sacrifice).canvas",
     "Game Ideas, desighn/blasphemous type game/Mind map.canvas",
-    "Game Ideas, desighn/blasphemous type game/The last calamity.canvas",
     "Game Ideas, desighn/Game Ideas.md",
     "Templates/GAME IDEA NAME.md",
     "Game Ideas, desighn/blasphemous type game/blasphemous type game.md",
     "Game Ideas, desighn/The Blink Game Idea/Don't Escape 4 Days to Survive.md",
     "bla.md",
-    "Home.md",
     "Game Ideas, desighn/The Blink Game Idea/Pasted image 20231114114428.png",
     "Game Ideas, desighn/The Blink Game Idea/Pasted image 20231114114227.png",
     "Game Ideas, desighn/The Blink Game Idea/The Blink.md",
