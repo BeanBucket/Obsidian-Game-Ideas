@@ -18,8 +18,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3afba50b40fe6021",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Game Ideas, desighn/blasphemous type game/The last calamity.canvas",
+                "viewState": {
+                  "x": 506.334877106466,
+                  "y": -1773.8688440153517,
+                  "zoom": -0.9082775601486203
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Game Ideas, desighn/blasphemous type game/The last calamity.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Game Ideas, desighn/blasphemous type game/The last calamity.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Game Ideas, desighn/blasphemous type game/The last calamity.canvas"
               }
             }
           },
@@ -167,12 +183,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27ef15868222bc86",
+  "active": "3afba50b40fe6021",
   "lastOpenFiles": [
+    "Game Ideas, desighn/blasphemous type game/Mind map.canvas",
+    "Game Ideas, desighn/blasphemous type game/The last calamity.canvas",
+    "Game Ideas, desighn/blasphemous type game/The courier (The last sacrifice).canvas",
+    "conflict-files-obsidian-git.md",
+    "Home.md",
     "here/Game Ideas, desighn/blasphemous type game/The courier (The last sacrifice).canvas",
     "here/Game Ideas, desighn/blasphemous type game/Mind map.canvas",
     "here/Game Ideas, desighn/blasphemous type game/The last calamity.canvas",
-    "Home.md",
     "here/Templates/GAME IDEA NAME.md",
     "here/Templates",
     "here/Home.md",
@@ -184,10 +204,7 @@
     "here/Game Ideas, desighn/The Blink Game Idea",
     "here/Game Ideas, desighn/Game Ideas.md",
     "here/Game Ideas, desighn",
-    "Game Ideas, desighn/blasphemous type game/The last calamity.canvas",
     "here",
-    "Game Ideas, desighn/blasphemous type game/The courier (The last sacrifice).canvas",
-    "Game Ideas, desighn/blasphemous type game/Mind map.canvas",
     "Game Ideas, desighn/Game Ideas.md",
     "Templates/GAME IDEA NAME.md",
     "Game Ideas, desighn/blasphemous type game/blasphemous type game.md",
